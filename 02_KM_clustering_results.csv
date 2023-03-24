@@ -1,0 +1,191 @@
+season,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,KM_Clusters
+2017,12-08-2017,12:30,Matchweek 1,Sat,1,1,3,3,Watford,3.1,2.1,54,20407.0,Jordan Henderson,433,Anthony Taylor,0
+2017,19-08-2017,15:00,Matchweek 2,Sat,0,2,1,0,Crystal Palace,2.4,0.6,71,53138.0,Jordan Henderson,433,Kevin Friend,1
+2017,27-08-2017,16:00,Matchweek 3,Sun,0,2,4,0,Arsenal,3.0,0.7,49,53206.0,Jordan Henderson,433,Craig Pawson,1
+2017,09-09-2017,12:30,Matchweek 4,Sat,1,0,0,5,Manchester City,0.7,2.7,35,54172.0,Jordan Henderson,433,Jonathan Moss,0
+2017,16-09-2017,15:00,Matchweek 5,Sat,0,1,1,1,Burnley,2.1,0.6,72,53231.0,James Milner,433,Roger East,3
+2017,23-09-2017,17:30,Matchweek 6,Sat,1,2,3,2,Leicester City,1.9,3.0,54,32004.0,Jordan Henderson,433,Anthony Taylor,0
+2017,01-10-2017,16:30,Matchweek 7,Sun,1,1,1,1,Newcastle Utd,1.7,0.7,68,52303.0,Jordan Henderson,433,Craig Pawson,3
+2017,14-10-2017,12:30,Matchweek 8,Sat,0,1,0,0,Manchester Utd,1.6,0.3,62,52912.0,Jordan Henderson,433,Martin Atkinson,3
+2017,22-10-2017,16:00,Matchweek 9,Sun,1,0,1,4,Tottenham,0.6,1.8,63,80827.0,Jordan Henderson,433,Andre Marriner,0
+2017,28-10-2017,15:00,Matchweek 10,Sat,0,2,3,0,Huddersfield,2.4,0.0,72,53268.0,Jordan Henderson,433,Kevin Friend,1
+2017,04-11-2017,17:30,Matchweek 11,Sat,1,2,4,1,West Ham,2.0,1.2,52,56961.0,Simon Mignolet,442,Niel Swarbrick,4
+2017,18-11-2017,15:00,Matchweek 12,Sat,0,2,3,0,Southampton,2.0,0.5,61,53256.0,Jordan Henderson,433,Mike Jones,1
+2017,25-11-2017,17:30,Matchweek 13,Sat,0,1,1,1,Chelsea,1.2,0.6,54,53225.0,Jordan Henderson,433,Michael Oliver,3
+2017,29-11-2017,20:00,Matchweek 14,Wed,1,2,3,0,Stoke City,1.9,0.6,59,29423.0,Simon Mignolet,4231,Martin Atkinson,2
+2017,02-12-2017,15:00,Matchweek 15,Sat,1,2,5,1,Brighton,1.6,1.7,57,30634.0,Jordan Henderson,3511,Graham Scott,2
+2017,10-12-2017,14:15,Matchweek 16,Sun,0,1,1,1,Everton,1.4,0.8,79,53082.0,Jordan Henderson,433,Craig Pawson,3
+2017,13-12-2017,20:00,Matchweek 17,Wed,0,1,0,0,West Brom,1.5,0.3,69,53243.0,Philippe Coutinho,442,Paul Tierney,3
+2017,17-12-2017,16:30,Matchweek 18,Sun,1,2,4,0,Bournemouth,2.2,0.8,56,10780.0,Jordan Henderson,433,Andre Marriner,4
+2017,22-12-2017,19:45,Matchweek 19,Fri,1,1,3,3,Arsenal,2.1,1.1,46,59409.0,Jordan Henderson,4231,Martin Atkinson,2
+2017,26-12-2017,17:30,Matchweek 20,Tue,0,2,5,0,Swansea City,3.3,0.3,55,52850.0,Philippe Coutinho,433,Kevin Friend,1
+2017,30-12-2017,15:00,Matchweek 21,Sat,0,2,2,1,Leicester City,2.8,0.9,61,53226.0,James Milner,433,Niel Swarbrick,1
+2017,01-01-2018,15:00,Matchweek 22,Mon,1,2,2,1,Burnley,1.6,1.3,57,21756.0,Simon Mignolet,4231,Roger East,2
+2017,14-01-2018,16:00,Matchweek 23,Sun,0,2,4,3,Manchester City,1.0,1.0,36,53285.0,Dejan Lovren,433,Andre Marriner,0
+2017,22-01-2018,20:00,Matchweek 24,Mon,1,0,0,1,Swansea City,2.1,0.3,71,20886.0,Emre Can,4231,Niel Swarbrick,3
+2017,30-01-2018,20:00,Matchweek 25,Tue,1,2,3,0,Huddersfield,1.8,0.4,74,24121.0,Jordan Henderson,433,Kevin Friend,4
+2017,04-02-2018,16:30,Matchweek 26,Sun,0,1,2,2,Tottenham,1.1,2.2,34,53213.0,Jordan Henderson,433,Jonathan Moss,0
+2017,11-02-2018,16:30,Matchweek 27,Sun,1,2,2,0,Southampton,2.6,0.5,47,31915.0,Emre Can,433,Martin Atkinson,4
+2017,24-02-2018,15:00,Matchweek 28,Sat,0,2,4,1,West Ham,4.0,0.3,67,53256.0,James Milner,433,Stuart Attwell,1
+2017,03-03-2018,17:30,Matchweek 29,Sat,0,2,2,0,Newcastle Utd,1.3,0.3,71,53287.0,Jordan Henderson,433,Graham Scott,1
+2017,10-03-2018,12:30,Matchweek 30,Sat,1,0,1,2,Manchester Utd,0.8,0.7,67,74855.0,James Milner,433,Craig Pawson,3
+2017,17-03-2018,17:30,Matchweek 31,Sat,0,2,5,0,Watford,2.5,0.2,57,53287.0,Jordan Henderson,433,Anthony Taylor,1
+2017,31-03-2018,12:30,Matchweek 32,Sat,1,2,2,1,Crystal Palace,1.5,1.7,68,25807.0,Jordan Henderson,433,Niel Swarbrick,4
+2017,07-04-2018,12:30,Matchweek 33,Sat,1,1,0,0,Everton,0.9,0.5,63,39220.0,Jordan Henderson,433,Michael Oliver,3
+2017,14-04-2018,17:30,Matchweek 34,Sat,0,2,3,0,Bournemouth,2.4,0.7,61,52959.0,Jordan Henderson,433,Chris Kavanagh,1
+2017,21-04-2018,12:30,Matchweek 35,Sat,1,1,2,2,West Brom,1.4,1.4,61,24520.0,Jordan Henderson,433,Stuart Attwell,0
+2017,28-04-2018,12:30,Matchweek 36,Sat,0,1,0,0,Stoke City,2.0,0.8,71,53255.0,Jordan Henderson,433,Andre Marriner,3
+2017,06-05-2018,16:30,Matchweek 37,Sun,1,0,0,1,Chelsea,0.9,0.5,66,41314.0,James Milner,433,Anthony Taylor,3
+2017,13-05-2018,15:00,Matchweek 38,Sun,0,2,4,0,Brighton,3.4,0.1,71,50752.0,Jordan Henderson,4411,Kevin Friend,2
+2018,12-08-2018,13:30,Matchweek 1,Sun,0,2,4,0,West Ham,5.1,0.9,64,53235.0,James Milner,433,Anthony Taylor,1
+2018,20-08-2018,20:00,Matchweek 2,Mon,1,2,2,0,Crystal Palace,2.8,0.3,63,25750.0,James Milner,433,Michael Oliver,4
+2018,25-08-2018,17:30,Matchweek 3,Sat,0,2,1,0,Brighton,1.4,0.4,69,53294.0,James Milner,433,Chris Kavanagh,1
+2018,01-09-2018,12:30,Matchweek 4,Sat,1,2,2,1,Leicester City,1.2,1.1,48,32149.0,Jordan Henderson,433,Paul Tierney,4
+2018,15-09-2018,12:30,Matchweek 5,Sat,1,2,2,1,Tottenham,2.5,1.4,40,80188.0,James Milner,433,Michael Oliver,4
+2018,22-09-2018,15:00,Matchweek 6,Sat,0,2,3,0,Southampton,2.2,0.8,61,50965.0,Jordan Henderson,4231,Paul Tierney,2
+2018,29-09-2018,17:30,Matchweek 7,Sat,1,1,1,1,Chelsea,1.5,1.8,53,40625.0,Jordan Henderson,433,Andre Marriner,0
+2018,07-10-2018,16:30,Matchweek 8,Sun,0,1,0,0,Manchester City,0.4,1.2,49,52117.0,Jordan Henderson,433,Martin Atkinson,3
+2018,20-10-2018,17:30,Matchweek 9,Sat,1,2,1,0,Huddersfield,0.7,0.9,53,24263.0,Jordan Henderson,433,Michael Oliver,4
+2018,27-10-2018,15:00,Matchweek 10,Sat,0,2,4,1,Cardiff City,2.1,0.6,78,53373.0,Virgil van Dijk,4231,Stuart Attwell,2
+2018,03-11-2018,17:30,Matchweek 11,Sat,1,1,1,1,Arsenal,1.5,1.4,38,59993.0,James Milner,4141,Andre Marriner,2
+2018,11-11-2018,12:00,Matchweek 12,Sun,0,2,2,0,Fulham,2.1,0.5,71,53128.0,Virgil van Dijk,4231,Paul Tierney,2
+2018,24-11-2018,15:00,Matchweek 13,Sat,1,2,3,0,Watford,0.9,0.4,63,20540.0,Jordan Henderson,4231,Jonathan Moss,2
+2018,02-12-2018,16:15,Matchweek 14,Sun,0,2,1,0,Everton,2.9,1.3,59,51756.0,Virgil van Dijk,4231,Chris Kavanagh,2
+2018,05-12-2018,19:45,Matchweek 15,Wed,1,2,3,1,Burnley,2.4,1.2,73,21741.0,Jordan Henderson,442,Stuart Attwell,4
+2018,08-12-2018,12:30,Matchweek 16,Sat,1,2,4,0,Bournemouth,1.6,0.3,60,10752.0,James Milner,442,Lee Mason,4
+2018,16-12-2018,16:00,Matchweek 17,Sun,0,2,3,1,Manchester Utd,2.5,0.4,63,52908.0,Virgil van Dijk,4411,Martin Atkinson,2
+2018,21-12-2018,20:00,Matchweek 18,Fri,1,2,2,0,Wolves,1.6,1.1,61,31358.0,Jordan Henderson,4231,Craig Pawson,2
+2018,26-12-2018,15:00,Matchweek 19,Wed,0,2,4,0,Newcastle Utd,3.0,0.5,74,53318.0,Jordan Henderson,4231,Graham Scott,2
+2018,29-12-2018,17:30,Matchweek 20,Sat,0,2,5,1,Arsenal,4.1,1.2,48,53326.0,Virgil van Dijk,4231,Michael Oliver,2
+2018,03-01-2019,20:00,Matchweek 21,Thu,1,0,1,2,Manchester City,1.8,0.8,50,54511.0,Jordan Henderson,433,Anthony Taylor,3
+2018,12-01-2019,15:00,Matchweek 22,Sat,1,2,1,0,Brighton,2.0,0.3,70,30682.0,Jordan Henderson,4231,Kevin Friend,2
+2018,19-01-2019,15:00,Matchweek 23,Sat,0,2,4,3,Crystal Palace,2.4,0.5,70,53171.0,Jordan Henderson,4231,Jonathan Moss,2
+2018,30-01-2019,20:00,Matchweek 24,Wed,0,1,1,1,Leicester City,0.8,0.9,71,53092.0,Jordan Henderson,4231,Martin Atkinson,2
+2018,04-02-2019,20:00,Matchweek 25,Mon,1,1,1,1,West Ham,1.3,0.9,73,59903.0,James Milner,433,Kevin Friend,3
+2018,09-02-2019,15:00,Matchweek 26,Sat,0,2,3,0,Bournemouth,2.1,0.3,65,53178.0,James Milner,433,Anthony Taylor,1
+2018,24-02-2019,14:05,Matchweek 27,Sun,1,1,0,0,Manchester Utd,0.4,0.3,64,74519.0,Jordan Henderson,433,Michael Oliver,3
+2018,27-02-2019,20:00,Matchweek 28,Wed,0,2,5,0,Watford,1.9,1.0,60,53316.0,James Milner,433,Graham Scott,1
+2018,03-03-2019,16:15,Matchweek 29,Sun,1,1,0,0,Everton,1.1,0.5,57,39335.0,Jordan Henderson,433,Martin Atkinson,3
+2018,10-03-2019,12:00,Matchweek 30,Sun,0,2,4,2,Burnley,4.5,0.3,67,53310.0,Virgil van Dijk,433,Andre Marriner,1
+2018,17-03-2019,14:15,Matchweek 31,Sun,1,2,2,1,Fulham,2.5,1.1,62,25043.0,Virgil van Dijk,433,Craig Pawson,4
+2018,31-03-2019,16:30,Matchweek 32,Sun,0,2,2,1,Tottenham,0.9,1.4,49,53322.0,Jordan Henderson,433,Martin Atkinson,1
+2018,05-04-2019,20:00,Matchweek 33,Fri,1,2,3,1,Southampton,1.6,0.8,67,31797.0,Virgil van Dijk,433,Paul Tierney,4
+2018,14-04-2019,16:30,Matchweek 34,Sun,0,2,2,0,Chelsea,1.3,0.9,61,53279.0,Jordan Henderson,433,Michael Oliver,1
+2018,21-04-2019,16:00,Matchweek 35,Sun,1,2,2,0,Cardiff City,3.3,1.0,76,33082.0,Jordan Henderson,433,Martin Atkinson,4
+2018,26-04-2019,20:00,Matchweek 36,Fri,0,2,5,0,Huddersfield,2.5,0.1,69,53249.0,Jordan Henderson,433,Kevin Friend,1
+2018,04-05-2019,19:45,Matchweek 37,Sat,1,2,3,2,Newcastle Utd,1.2,1.4,68,52206.0,Jordan Henderson,433,Andre Marriner,4
+2018,12-05-2019,15:00,Matchweek 38,Sun,0,2,2,0,Wolves,1.4,0.6,58,53331.0,Jordan Henderson,433,Martin Atkinson,1
+2019,09-08-2019,20:00,Matchweek 1,Fri,0,2,4,1,Norwich City,1.7,1.0,57,53333.0,Jordan Henderson,433,Michael Oliver,1
+2019,17-08-2019,15:00,Matchweek 2,Sat,1,2,2,1,Southampton,1.4,1.6,63,31712.0,James Milner,433,Andre Marriner,4
+2019,24-08-2019,17:30,Matchweek 3,Sat,0,2,3,1,Arsenal,2.5,0.9,52,53298.0,Jordan Henderson,433,Anthony Taylor,1
+2019,31-08-2019,17:30,Matchweek 4,Sat,1,2,3,0,Burnley,1.1,0.4,63,21762.0,Jordan Henderson,433,Chris Kavanagh,4
+2019,14-09-2019,12:30,Matchweek 5,Sat,0,2,3,1,Newcastle Utd,2.7,0.4,73,51430.0,Virgil van Dijk,433,Andre Marriner,1
+2019,22-09-2019,16:30,Matchweek 6,Sun,1,2,2,1,Chelsea,0.9,1.2,45,40638.0,Jordan Henderson,433,Michael Oliver,4
+2019,28-09-2019,12:30,Matchweek 7,Sat,1,2,1,0,Sheffield Utd,1.9,1.3,70,31774.0,Jordan Henderson,433,Anthony Taylor,4
+2019,05-10-2019,15:00,Matchweek 8,Sat,0,2,2,1,Leicester City,2.8,0.1,53,53322.0,James Milner,433,Chris Kavanagh,1
+2019,20-10-2019,16:30,Matchweek 9,Sun,1,1,1,1,Manchester Utd,1.1,0.7,66,73737.0,Jordan Henderson,433,Martin Atkinson,3
+2019,27-10-2019,16:30,Matchweek 10,Sun,0,2,2,1,Tottenham,2.5,1.4,66,53222.0,Jordan Henderson,433,Anthony Taylor,1
+2019,02-11-2019,15:00,Matchweek 11,Sat,1,2,2,1,Aston Villa,2.6,0.7,72,41878.0,Jordan Henderson,433,Jonathan Moss,4
+2019,10-11-2019,16:30,Matchweek 12,Sun,0,2,3,1,Manchester City,1.0,1.3,45,53324.0,Jordan Henderson,433,Michael Oliver,1
+2019,23-11-2019,15:00,Matchweek 13,Sat,1,2,2,1,Crystal Palace,1.4,1.0,59,25486.0,Jordan Henderson,433,Kevin Friend,4
+2019,30-11-2019,15:00,Matchweek 14,Sat,0,2,2,1,Brighton,1.9,1.0,43,53319.0,Jordan Henderson,433,Martin Atkinson,1
+2019,04-12-2019,20:15,Matchweek 15,Wed,0,2,5,2,Everton,2.7,1.5,57,53094.0,James Milner,4231,Mike Dean,2
+2019,07-12-2019,15:00,Matchweek 16,Sat,1,2,3,0,Bournemouth,2.3,0.2,74,10832.0,Jordan Henderson,433,Chris Kavanagh,4
+2019,14-12-2019,12:30,Matchweek 17,Sat,0,2,2,0,Watford,1.6,1.4,68,53311.0,Jordan Henderson,4231,Andre Marriner,2
+2019,26-12-2019,20:00,Matchweek 19,Thu,1,2,4,0,Leicester City,3.1,0.1,59,32211.0,Jordan Henderson,433,Michael Oliver,4
+2019,29-12-2019,16:30,Matchweek 20,Sun,0,2,1,0,Wolves,1.2,0.6,63,53326.0,Jordan Henderson,4231,Anthony Taylor,2
+2019,02-01-2020,20:00,Matchweek 21,Thu,0,2,2,0,Sheffield Utd,3.2,0.8,74,53321.0,Jordan Henderson,433,Paul Tierney,1
+2019,11-01-2020,17:30,Matchweek 22,Sat,1,2,1,0,Tottenham,1.9,1.6,67,61023.0,Jordan Henderson,433,Martin Atkinson,4
+2019,19-01-2020,16:30,Matchweek 23,Sun,0,2,2,0,Manchester Utd,2.3,1.2,53,52916.0,Jordan Henderson,433,Craig Pawson,1
+2019,23-01-2020,20:00,Matchweek 24,Thu,1,2,2,1,Wolves,1.5,1.6,54,31746.0,Jordan Henderson,433,Michael Oliver,4
+2019,29-01-2020,19:45,Matchweek 18,Wed,1,2,2,0,West Ham,2.5,0.8,69,59959.0,Jordan Henderson,433,Jonathan Moss,4
+2019,01-02-2020,15:00,Matchweek 25,Sat,0,2,4,0,Southampton,3.2,1.0,61,53291.0,Jordan Henderson,433,Kevin Friend,1
+2019,15-02-2020,17:30,Matchweek 26,Sat,1,2,1,0,Norwich City,1.9,0.4,64,27110.0,Jordan Henderson,433,Stuart Attwell,4
+2019,24-02-2020,20:00,Matchweek 27,Mon,0,2,3,2,West Ham,2.9,0.7,68,53313.0,Virgil van Dijk,433,Jonathan Moss,1
+2019,29-02-2020,17:30,Matchweek 28,Sat,1,0,0,3,Watford,0.3,2.2,69,21634.0,Virgil van Dijk,433,Michael Oliver,0
+2019,07-03-2020,12:30,Matchweek 29,Sat,0,2,2,1,Bournemouth,1.4,1.3,73,53323.0,James Milner,433,Paul Tierney,1
+2019,21-06-2020,19:00,Matchweek 30,Sun,1,1,0,0,Everton,0.8,1.3,70,0.0,Jordan Henderson,433,Mike Dean,3
+2019,24-06-2020,20:15,Matchweek 31,Wed,0,2,4,0,Crystal Palace,2.5,0.2,73,0.0,Jordan Henderson,433,Martin Atkinson,1
+2019,02-07-2020,20:15,Matchweek 32,Thu,1,0,0,4,Manchester City,1.3,2.7,52,0.0,Jordan Henderson,433,Anthony Taylor,0
+2019,05-07-2020,16:30,Matchweek 33,Sun,0,2,2,0,Aston Villa,0.8,0.5,70,0.0,Virgil van Dijk,433,Paul Tierney,4
+2019,08-07-2020,20:15,Matchweek 34,Wed,1,2,3,1,Brighton,1.9,2.2,56,0.0,Jordan Henderson,433,Craig Pawson,4
+2019,11-07-2020,15:00,Matchweek 35,Sat,0,1,1,1,Burnley,2.1,0.8,71,0.0,Virgil van Dijk,433,David Coote,3
+2019,15-07-2020,20:15,Matchweek 36,Wed,1,0,1,2,Arsenal,2.8,1.1,69,0.0,Virgil van Dijk,433,Paul Tierney,3
+2019,22-07-2020,20:15,Matchweek 37,Wed,0,2,5,3,Chelsea,1.4,2.3,51,0.0,Virgil van Dijk,433,Andre Marriner,0
+2019,26-07-2020,16:00,Matchweek 38,Sun,1,2,3,1,Newcastle Utd,0.6,0.4,75,0.0,James Milner,433,Anthony Taylor,4
+2020,12-09-2020,17:30,Matchweek 1,Sat,0,2,4,3,Leeds United,3.3,0.6,50,0.0,Jordan Henderson,433,Michael Oliver,1
+2020,20-09-2020,16:30,Matchweek 2,Sun,1,2,2,0,Chelsea,2.6,1.0,61,0.0,Jordan Henderson,433,Paul Tierney,4
+2020,28-09-2020,20:00,Matchweek 3,Mon,0,2,3,1,Arsenal,3.2,1.2,67,0.0,Virgil van Dijk,433,Craig Pawson,1
+2020,04-10-2020,19:15,Matchweek 4,Sun,1,0,2,7,Aston Villa,1.8,3.9,69,0.0,Virgil van Dijk,433,Martin Atkinson,0
+2020,17-10-2020,12:30,Matchweek 5,Sat,1,1,2,2,Everton,2.2,1.3,57,0.0,Jordan Henderson,433,Michael Oliver,0
+2020,24-10-2020,20:00,Matchweek 6,Sat,0,2,2,1,Sheffield Utd,2.5,1.5,61,0.0,Jordan Henderson,4231,Mike Dean,2
+2020,31-10-2020,17:30,Matchweek 7,Sat,0,2,2,1,West Ham,1.8,0.5,73,0.0,Jordan Henderson,433,Kevin Friend,4
+2020,08-11-2020,16:30,Matchweek 8,Sun,1,1,1,1,Manchester City,1.4,1.6,46,0.0,Jordan Henderson,4231,Craig Pawson,0
+2020,22-11-2020,19:15,Matchweek 9,Sun,0,2,3,0,Leicester City,3.7,1.3,56,0.0,James Milner,433,Chris Kavanagh,1
+2020,28-11-2020,12:30,Matchweek 10,Sat,1,1,1,1,Brighton,0.5,2.1,60,0.0,James Milner,433,Stuart Attwell,0
+2020,06-12-2020,19:15,Matchweek 11,Sun,0,2,4,0,Wolves,1.2,0.5,61,2000.0,Jordan Henderson,433,Craig Pawson,4
+2020,13-12-2020,16:30,Matchweek 12,Sun,1,1,1,1,Fulham,2.1,1.5,74,2000.0,Jordan Henderson,433,Andre Marriner,3
+2020,16-12-2020,20:00,Matchweek 13,Wed,0,2,2,1,Tottenham,1.2,1.3,75,2000.0,Jordan Henderson,433,Anthony Taylor,4
+2020,19-12-2020,12:30,Matchweek 14,Sat,1,2,7,0,Crystal Palace,2.1,0.3,64,0.0,Jordan Henderson,433,Jonathan Moss,4
+2020,27-12-2020,16:30,Matchweek 15,Sun,0,1,1,1,West Brom,1.6,0.5,77,2000.0,Jordan Henderson,433,Kevin Friend,3
+2020,30-12-2020,20:00,Matchweek 16,Wed,1,1,0,0,Newcastle Utd,1.1,0.3,72,0.0,Jordan Henderson,433,Paul Tierney,3
+2020,04-01-2021,20:00,Matchweek 17,Mon,1,0,0,1,Southampton,1.1,0.6,67,0.0,Jordan Henderson,433,Andre Marriner,3
+2020,17-01-2021,16:30,Matchweek 19,Sun,0,1,0,0,Manchester Utd,1.7,0.9,66,0.0,Jordan Henderson,433,Paul Tierney,3
+2020,21-01-2021,20:00,Matchweek 18,Thu,0,0,0,1,Burnley,2.3,1.4,72,0.0,Georginio Wijnaldum,433,Mike Dean,3
+2020,28-01-2021,20:00,Matchweek 20,Thu,1,2,3,1,Tottenham,2.1,0.2,50,0.0,Jordan Henderson,433,Martin Atkinson,4
+2020,31-01-2021,16:30,Matchweek 21,Sun,1,2,3,1,West Ham,1.9,1.0,67,0.0,Jordan Henderson,442,Jonathan Moss,4
+2020,03-02-2021,20:15,Matchweek 22,Wed,0,0,0,1,Brighton,0.7,1.1,63,0.0,Jordan Henderson,433,Kevin Friend,3
+2020,07-02-2021,16:30,Matchweek 23,Sun,0,0,1,4,Manchester City,1.3,3.1,56,0.0,Jordan Henderson,433,Michael Oliver,0
+2020,13-02-2021,12:30,Matchweek 24,Sat,1,0,1,3,Leicester City,1.8,2.6,62,0.0,Jordan Henderson,433,Anthony Taylor,0
+2020,20-02-2021,17:30,Matchweek 25,Sat,0,0,0,2,Everton,1.7,1.5,71,0.0,Jordan Henderson,433,Chris Kavanagh,3
+2020,28-02-2021,19:15,Matchweek 26,Sun,1,2,2,0,Sheffield Utd,2.9,0.6,60,0.0,Georginio Wijnaldum,433,Jonathan Moss,4
+2020,04-03-2021,20:15,Matchweek 29,Thu,0,0,0,1,Chelsea,0.3,1.0,55,0.0,Georginio Wijnaldum,433,Martin Atkinson,3
+2020,07-03-2021,14:00,Matchweek 27,Sun,0,0,0,1,Fulham,1.0,1.1,64,0.0,James Milner,433,Kevin Friend,3
+2020,15-03-2021,20:00,Matchweek 28,Mon,1,2,1,0,Wolves,1.1,0.8,46,0.0,Georginio Wijnaldum,433,Craig Pawson,4
+2020,03-04-2021,20:00,Matchweek 30,Sat,1,2,3,0,Arsenal,2.2,0.3,64,0.0,James Milner,433,Stuart Attwell,4
+2020,10-04-2021,15:00,Matchweek 31,Sat,0,2,2,1,Aston Villa,2.5,1.0,65,0.0,James Milner,433,Paul Tierney,4
+2020,19-04-2021,20:00,Matchweek 32,Mon,1,1,1,1,Leeds United,2.3,1.8,40,0.0,James Milner,433,Anthony Taylor,0
+2020,24-04-2021,12:30,Matchweek 33,Sat,0,1,1,1,Newcastle Utd,1.9,1.2,69,0.0,Georginio Wijnaldum,442,Andre Marriner,3
+2020,08-05-2021,20:15,Matchweek 35,Sat,0,2,2,0,Southampton,2.2,1.3,54,0.0,Georginio Wijnaldum,433,Kevin Friend,4
+2020,13-05-2021,20:15,Matchweek 34,Thu,1,2,4,2,Manchester Utd,2.6,2.0,47,0.0,Georginio Wijnaldum,433,Anthony Taylor,0
+2020,16-05-2021,16:30,Matchweek 36,Sun,1,2,2,1,West Brom,2.4,0.8,76,0.0,Roberto Firmino,433,Mike Dean,4
+2020,19-05-2021,20:15,Matchweek 37,Wed,1,2,3,0,Burnley,2.9,0.7,58,3387.0,Georginio Wijnaldum,433,Chris Kavanagh,4
+2020,23-05-2021,16:00,Matchweek 38,Sun,0,2,2,0,Crystal Palace,1.8,0.7,69,9901.0,Georginio Wijnaldum,433,Craig Pawson,4
+2021,14-08-2021,17:30,Matchweek 1,Sat,1,2,3,0,Norwich City,2.0,1.4,51,27023.0,James Milner,433,Andre Marriner,4
+2021,21-08-2021,12:30,Matchweek 2,Sat,0,2,2,0,Burnley,2.9,0.7,63,52591.0,Jordan Henderson,433,Mike Dean,1
+2021,28-08-2021,17:30,Matchweek 3,Sat,0,1,1,1,Chelsea,2.6,0.8,65,54000.0,Jordan Henderson,433,Anthony Taylor,1
+2021,12-09-2021,16:30,Matchweek 4,Sun,1,2,3,0,Leeds United,4.0,1.2,57,36507.0,Virgil van Dijk,433,Craig Pawson,4
+2021,18-09-2021,15:00,Matchweek 5,Sat,0,2,3,0,Crystal Palace,2.7,0.8,59,52000.0,Jordan Henderson,433,Andy Madley,1
+2021,25-09-2021,17:30,Matchweek 6,Sat,1,1,3,3,Brentford,2.5,1.9,66,16876.0,Jordan Henderson,433,Stuart Attwell,0
+2021,03-10-2021,16:30,Matchweek 7,Sun,0,1,2,2,Manchester City,1.0,1.2,49,53102.0,Jordan Henderson,433,Paul Tierney,0
+2021,16-10-2021,12:30,Matchweek 8,Sat,1,2,5,0,Watford,3.6,0.5,76,21085.0,Jordan Henderson,433,Jonathan Moss,4
+2021,24-10-2021,16:30,Matchweek 9,Sun,1,2,5,0,Manchester Utd,3.8,1.5,63,73088.0,Jordan Henderson,433,Anthony Taylor,1
+2021,30-10-2021,15:00,Matchweek 10,Sat,0,1,2,2,Brighton,1.1,1.1,57,52598.0,Jordan Henderson,433,Mike Dean,3
+2021,07-11-2021,16:30,Matchweek 11,Sun,1,0,2,3,West Ham,1.4,1.0,68,59909.0,Jordan Henderson,433,Craig Pawson,3
+2021,20-11-2021,17:30,Matchweek 12,Sat,0,2,4,0,Arsenal,4.3,0.4,63,53092.0,Virgil van Dijk,433,Michael Oliver,1
+2021,27-11-2021,15:00,Matchweek 13,Sat,0,2,4,0,Southampton,2.5,1.0,65,53040.0,Jordan Henderson,433,Andre Marriner,1
+2021,01-12-2021,20:15,Matchweek 14,Wed,1,2,4,1,Everton,2.1,0.6,68,39641.0,Jordan Henderson,433,Paul Tierney,4
+2021,04-12-2021,15:00,Matchweek 15,Sat,1,2,1,0,Wolves,2.5,0.2,65,30729.0,Jordan Henderson,433,Chris Kavanagh,4
+2021,11-12-2021,15:00,Matchweek 16,Sat,0,2,1,0,Aston Villa,2.5,0.4,63,53093.0,Jordan Henderson,433,Stuart Attwell,1
+2021,16-12-2021,20:00,Matchweek 17,Thu,0,2,3,1,Newcastle Utd,2.4,0.3,74,52951.0,Jordan Henderson,433,Mike Dean,1
+2021,19-12-2021,16:30,Matchweek 18,Sun,1,1,2,2,Tottenham,1.5,3.4,57,45421.0,James Milner,433,Paul Tierney,0
+2021,28-12-2021,20:00,Matchweek 20,Tue,1,0,0,1,Leicester City,2.5,0.6,62,32230.0,Jordan Henderson,433,Michael Oliver,3
+2021,02-01-2022,16:30,Matchweek 21,Sun,1,1,2,2,Chelsea,1.4,1.3,45,40072.0,Jordan Henderson,433,Anthony Taylor,0
+2021,16-01-2022,14:00,Matchweek 22,Sun,0,2,3,0,Brentford,3.1,0.5,69,52824.0,Jordan Henderson,433,Jonathan Moss,1
+2021,23-01-2022,14:00,Matchweek 23,Sun,1,2,3,1,Crystal Palace,1.7,2.2,57,25002.0,Jordan Henderson,433,Kevin Friend,4
+2021,10-02-2022,19:45,Matchweek 24,Thu,0,2,2,0,Leicester City,2.6,0.3,63,53050.0,Virgil van Dijk,433,Chris Kavanagh,1
+2021,13-02-2022,14:00,Matchweek 25,Sun,1,2,1,0,Burnley,1.6,0.8,67,19563.0,Jordan Henderson,433,Martin Atkinson,4
+2021,19-02-2022,15:00,Matchweek 26,Sat,0,2,3,1,Norwich City,3.0,0.6,69,53135.0,Jordan Henderson,433,Mike Dean,1
+2021,23-02-2022,19:45,Matchweek 19,Wed,0,2,6,0,Leeds United,5.0,0.2,65,53018.0,Virgil van Dijk,433,Michael Oliver,1
+2021,05-03-2022,17:30,Matchweek 28,Sat,0,2,1,0,West Ham,2.6,1.5,69,59925.0,Jordan Henderson,433,Jonathan Moss,1
+2021,12-03-2022,12:30,Matchweek 29,Sat,1,2,2,0,Brighton,2.3,0.8,48,31474.0,Jordan Henderson,433,Mike Dean,4
+2021,16-03-2022,20:15,Matchweek 27,Wed,1,2,2,0,Arsenal,0.8,0.5,50,59968.0,Jordan Henderson,433,Andre Marriner,4
+2021,02-04-2022,12:30,Matchweek 31,Sat,0,2,2,0,Watford,2.1,0.6,73,53104.0,Jordan Henderson,433,Stuart Attwell,1
+2021,10-04-2022,16:30,Matchweek 32,Sun,1,1,2,2,Manchester City,1.0,2.0,45,53197.0,Jordan Henderson,433,Anthony Taylor,0
+2021,19-04-2022,20:00,Matchweek 30,Tue,0,2,4,0,Manchester Utd,2.3,0.1,72,52686.0,Jordan Henderson,433,Martin Atkinson,1
+2021,24-04-2022,16:30,Matchweek 34,Sun,0,2,2,0,Everton,1.6,0.4,81,53213.0,Virgil van Dijk,433,Stuart Attwell,1
+2021,30-04-2022,12:30,Matchweek 35,Sat,1,2,1,0,Newcastle Utd,2.3,0.2,64,52281.0,Jordan Henderson,433,Andre Marriner,4
+2021,07-05-2022,19:45,Matchweek 36,Sat,0,1,1,1,Tottenham,1.2,1.1,64,53177.0,Jordan Henderson,433,Michael Oliver,3
+2021,10-05-2022,20:00,Matchweek 33,Tue,1,2,2,1,Aston Villa,1.9,1.1,60,41919.0,Virgil van Dijk,433,Jonathan Moss,4
+2021,17-05-2022,19:45,Matchweek 37,Tue,1,2,2,1,Southampton,1.5,0.1,71,31588.0,James Milner,433,Martin Atkinson,4
+2021,22-05-2022,16:00,Matchweek 38,Sun,0,2,3,1,Wolves,3.2,1.1,63,53097.0,Jordan Henderson,433,Anthony Taylor,1

@@ -1,0 +1,18 @@
+Column Name,Description
+season,Year where the data belongs to
+Date,Date listed is local to the match
+Time,Time listed is local to the match venue
+Round,Round or Phase of competition
+Day,Day of week
+Venue,Home or Away match
+Result,"Win, Draw or Loss"
+GF,Goals For 
+GA,Goals Against
+Opponent,Minutes played divided by 90
+xG,Expected goals
+xGA,Expected goals allowed
+Poss,Possession
+Attendance,
+Captain,
+Formation,"Number of players in each row from defenders to forwards, not including the goalkeeper."
+Referee,

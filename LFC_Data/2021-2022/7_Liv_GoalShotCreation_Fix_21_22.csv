@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def,Matches
+Alisson\7a2e46a8,br BRA,GK,28,36,3,0.08,3,0,0,0,0,0,1,0.03,1,0,0,0,0,0,Matches
+Virgil van Dijk\e06683ca,nl NED,DF,30,34,24,0.71,18,0,0,6,0,0,6,0.18,4,0,0,2,0,0,Matches
+Trent Alexander-Arnold\cd1acf9d,eng ENG,DF,22,31.7,150,4.73,87,52,5,5,1,0,17,0.54,11,5,0,1,0,0,Matches
+Sadio Mané\c691bfe2,sn SEN,FW,29,31.3,97,3.1,67,0,5,14,8,3,13,0.42,7,0,1,4,1,0,Matches
+Joël Matip\b217ef29,cm CMR,DF,29,31,34,1.1,26,0,0,7,1,0,9,0.29,7,0,0,1,1,0,Matches
+Mohamed Salah\e342ad68,eg EGY,FW,29,30.7,133,4.33,93,0,21,15,3,1,25,0.81,17,0,5,2,1,0,Matches
+Jordan Henderson\935e6b8f,eng ENG,MF,31,28.9,78,2.7,71,4,2,0,0,1,11,0.38,11,0,0,0,0,0,Matches
+Andrew Robertson\2e4f5f03,sct SCO,DF,27,28.2,95,3.37,64,22,3,1,3,2,16,0.57,13,2,1,0,0,0,Matches
+Diogo Jota\178ae8f8,pt POR,FW,24,26.3,87,3.31,58,0,12,4,9,4,14,0.53,7,0,4,1,2,0,Matches
+Fabinho\7f3b388c,br BRA,MF,27,25.7,39,1.52,31,0,0,3,4,1,5,0.19,3,0,0,2,0,0,Matches
+Thiago Alcántara\77e84962,es ESP,MF,30,17,61,3.58,52,0,1,5,0,3,6,0.35,6,0,0,0,0,0,Matches
+Naby Keïta\f25c8e3a,gn GUI,MF,26,13,43,3.3,33,0,3,4,0,3,6,0.46,4,0,1,1,0,0,Matches
+Ibrahima Konaté\5ed9b537,fr FRA,DF,22,11,6,0.55,6,0,0,0,0,0,2,0.18,2,0,0,0,0,0,Matches
+Luis Díaz\4a1a9578,co COL,FW,24,10.6,49,4.6,34,0,10,3,0,2,4,0.38,3,0,0,1,0,0,Matches
+Roberto Firmino\4c370d81,br BRA,FW,29,11,37,3.36,32,0,1,3,0,1,6,0.55,4,0,0,1,0,1,Matches
+Curtis Jones\4fb9c88f,eng ENG,MF,20,9.5,26,2.75,15,1,2,3,3,2,2,0.21,1,0,0,1,0,0,Matches
+Kostas Tsimikas\f315ca93,gr GRE,DF,25,9.7,37,3.8,24,13,0,0,0,0,3,0.31,2,1,0,0,0,0,Matches
+James Milner\2f90f6b8,eng ENG,MFDF,35,9.5,31,3.27,23,6,1,1,0,0,1,0.11,1,0,0,0,0,0,Matches
+Alex Oxlade-Chamberlain\38c7feef,eng ENG,MFFW,27,8.7,21,2.41,17,0,2,0,1,1,1,0.11,1,0,0,0,0,0,Matches
+Harvey Elliott\c8387671,eng ENG,MF,18,3.8,21,5.46,14,1,1,3,2,0,1,0.26,1,0,0,0,0,0,Matches
+Joe Gomez\7a11550b,eng ENG,DF,24,3.7,8,2.18,7,0,0,0,1,0,2,0.54,2,0,0,0,0,0,Matches
+Caoimhín Kelleher\62d7ef38,ie IRL,GK,22,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Takumi Minamino\f833a830,jp JPN,FWMF,26,2.1,7,3.39,5,0,0,0,1,1,1,0.48,1,0,0,0,0,0,Matches
+Tyler Morton\2bc28bb9,eng ENG,MF,18,0.7,1,1.36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Divock Origi\43a166b4,be BEL,FW,26,1.5,2,1.35,1,0,0,1,0,0,2,1.35,1,0,0,1,0,0,Matches
+Kaide Gordon\19a9cb70,eng ENG,FW,16,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Neco Williams\dd323728,wls WAL,DF,20,0.1,2,22.5,1,0,1,0,0,0,2,22.5,1,0,1,0,0,0,Matches
+Squad Total,,,27.7,38,1092,28.74,783,99,70,78,37,25,156,4.11,111,8,13,18,5,1,
+Opponent Total,,,26.7,38,484,12.74,364,33,35,21,20,11,41,1.08,27,4,4,5,1,0,

@@ -1,0 +1,24 @@
+Column Name,Description
+Season,Year where the data belongs to
+Player,Name of the player
+Nation,Nationality of the player
+Pos,Position of the player
+Age,Age at the season start for league play
+90s,Minutes played divided by 90
+Gls,Goals scored or allowed
+Sh,Shots Total
+SoT,Shots on target
+SoT%,Shots on target percentage
+Sh/90,Shots total per 90 minutes
+SoT/90,Shots on target per 90 minutes
+G/Sh,Goals per shot
+G/SoT,Goals per shot on target
+Dist,"Average distance, in yards, from goal of all shots taken"
+FK,Shots from free kicks
+PK,Penalty kicks made
+PKatt,Penalty kicks attempted
+xG,Expected goals
+npxG,Non-Penalty expected goals
+npxG/Sh,Non-Penalty Expected Goals per shot
+G-xG,Goals minus Expected Goals
+np:G-xG,Non-Penalty Goals minus Non-Penalty Expected Goals

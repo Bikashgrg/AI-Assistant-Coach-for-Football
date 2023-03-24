@@ -1,0 +1,31 @@
+Column Name,Description
+season,Year where the data belongs to
+Player,Name of the player
+Nation,Nationality of the player
+Pos,Position of the player
+Age,Age at the season start for league play
+MP,Matches played
+Starts,Game started by player
+Min,Total minutes played
+90s,Minutes played divided by 90
+Gls,Goals scored
+Ast,Assists
+G-PK,Non-Penalty goals
+PK,Penalty kicks made
+PKatt,Penalty kicks attempted
+CrdY,Yellow cards
+CrdR,Red cards
+Gls_90,Goals scored per 90 minutes
+Ast_90,Assists per 90 minutes
+G+A_90,Goals and assists per 90 minutes
+G-PK_90,Goals minus penalty kicks made per 90 minutes
+G+A-PK_90,Goals plus assists minus penalty kicks made per 90 minutes
+xG,Expected goals
+npxG,Non-Penalty expected goals
+xA,Expected assists
+npxG+xA,Non-Penalty expected goals plus xG assisted
+xG_90,Expected goals per 90 minutes
+xA_90,Expected assists per 90 minutes
+xG+xA_90,Expected goals plus assist per 90 minutes
+npxG_90,Non-Penalty expected goals per 90 minutes
+npxG+xA_90,Non-Penalty expected goals plus xG assisted per 90 minutes

@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def,Matches
+Andrew Robertson\2e4f5f03,sct SCO,DF,26,37.6,106,2.82,80,19,4,1,0,2,15,0.4,10,2,2,1,0,0,Matches
+Mohamed Salah\e342ad68,eg EGY,FW,28,34.2,117,3.42,87,1,6,12,7,4,14,0.41,10,0,0,2,2,0,Matches
+Trent Alexander-Arnold\cd1acf9d,eng ENG,DF,21,33.7,123,3.65,78,32,7,6,0,0,13,0.39,10,2,0,1,0,0,Matches
+Georginio Wijnaldum\eb58eef0,nl NED,MF,29,32.7,53,1.62,46,0,2,2,3,0,2,0.06,1,0,0,1,0,0,Matches
+Alisson\7a2e46a8,br BRA,GK,27,33,5,0.15,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Roberto Firmino\4c370d81,br BRA,FW,28,31.5,107,3.39,80,0,12,9,5,1,9,0.29,8,0,0,1,0,0,Matches
+Sadio Mané\c691bfe2,sn SEN,FW,28,31.2,124,3.97,88,1,10,9,14,2,12,0.38,7,0,0,3,1,1,Matches
+Fabinho\7f3b388c,br BRA,DFMF,26,28.5,23,0.81,20,0,0,0,2,1,4,0.14,3,0,0,0,1,0,Matches
+Thiago Alcántara\77e84962,es ESP,MF,29,20.6,61,2.96,51,2,3,2,1,2,2,0.1,2,0,0,0,0,0,Matches
+Jordan Henderson\935e6b8f,eng ENG,MFDF,30,18.9,33,1.74,27,4,0,0,1,1,4,0.21,3,1,0,0,0,0,Matches
+Nathaniel Phillips\515ebe8d,eng ENG,DF,23,16.2,11,0.68,10,0,0,1,0,0,1,0.06,0,0,0,1,0,0,Matches
+Curtis Jones\4fb9c88f,eng ENG,MF,19,13.1,37,2.82,30,0,2,0,2,3,4,0.31,4,0,0,0,0,0,Matches
+Diogo Jota\178ae8f8,pt POR,FW,23,12.4,34,2.75,20,0,2,5,5,2,3,0.24,1,0,1,0,1,0,Matches
+James Milner\2f90f6b8,eng ENG,MFDF,34,11.9,22,1.85,17,3,1,0,0,1,1,0.08,0,1,0,0,0,0,Matches
+Ozan Kabak\2d61d13a,tr TUR,DF,20,8.9,1,0.11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Joël Matip\b217ef29,cm CMR,DF,28,7.7,6,0.78,5,0,0,1,0,0,2,0.26,1,0,0,1,0,0,Matches
+Rhys Williams\012c975a,eng ENG,DF,19,7.3,5,0.68,4,0,0,1,0,0,1,0.14,0,0,0,1,0,0,Matches
+Naby Keïta\f25c8e3a,gn GUI,MF,25,5.8,15,2.6,12,0,1,2,0,0,1,0.17,1,0,0,0,0,0,Matches
+Joe Gomez\7a11550b,eng ENG,DF,23,6.6,2,0.31,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Xherdan Shaqiri\6421ec64,ch SUI,MFFW,28,6.2,32,5.18,30,2,0,0,0,0,3,0.49,3,0,0,0,0,0,Matches
+Virgil van Dijk\e06683ca,nl NED,DF,29,4.1,1,0.24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Adrián\f76e6b4e,es ESP,GK,33,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Neco Williams\dd323728,wls WAL,DF,19,2.8,4,1.45,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Takumi Minamino\f833a830,jp JPN,MFFW,25,3.3,6,1.84,3,0,1,1,1,0,1,0.31,0,0,1,0,0,0,Matches
+Alex Oxlade-Chamberlain\38c7feef,eng ENG,FWMF,26,2.8,5,1.78,5,0,0,0,0,0,2,0.71,2,0,0,0,0,0,Matches
+Divock Origi\43a166b4,be BEL,FW,25,2.1,3,1.45,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Caoimhín Kelleher\62d7ef38,ie IRL,GK,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kostas Tsimikas\f315ca93,gr GRE,DFFW,24,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,26.8,38,936,24.63,709,64,51,52,41,19,94,2.47,66,6,4,12,5,1,
+Opponent Total,,,26.6,38,534,14.05,381,46,35,22,35,15,65,1.71,48,4,3,3,6,1,

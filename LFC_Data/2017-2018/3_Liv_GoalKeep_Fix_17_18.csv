@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+Loris Karius\32e7ce92,de GER,GK,24,19,19,1710,19,14,0.74,41,28,70.7,11,5,3,10,52.6,3,2,1,0,33.3,Matches
+Simon Mignolet\d436eb94,be BEL,GK,29,19,19,1710,19,24,1.26,55,32,60,10,7,2,7,36.8,3,2,1,0,33.3,Matches
+Squad Total,,,25.6,38,38,3420,38,38,1,96,60,64.6,21,12,5,17,44.7,6,4,2,0,33.3,
+Opponent Total,,,27.1,38,38,3420,38,84,2.21,228,145,64,5,12,21,7,18.4,3,2,1,0,33.3,
